@@ -15,4 +15,7 @@ __pycache__/
 *.csv
 *.parquet
 # Ignore all .html files
-*.html
+*.html.venv/
+.venv/
+.DS_Store
+.vscode/
